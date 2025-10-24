@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://i.ibb.co/dMPVTVm/banner-dev.png)
+
 
 <h1 align="center">👋 ¡Hola! Soy Jorge Soibz</h1>
 <h3 align="center">💻 Desarrollador Full Stack | En formación con Swift & SwiftUI</h3>
